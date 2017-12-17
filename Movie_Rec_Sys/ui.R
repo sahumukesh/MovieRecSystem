@@ -40,14 +40,6 @@ shinyUI(fluidPage(
            tableOutput("table")
            #verbatimTextOutput("dynamic_value")
     )
-  ),
-  
-  fluidRow(
-    column(12,
-           helpText("For detail description of this project please visit", 
-                    a("the link", href="https://github.com/sahumukesh/MovieRecmdSystem/blob/master/movieRec_detail.Rmd", target="_blank")),
-           helpText("For a code, press", a("here", href = "https://github.com/sahumukesh/MovieRecmdSystem", target="_blank"))
-           
-    )
   )
+  
 ))

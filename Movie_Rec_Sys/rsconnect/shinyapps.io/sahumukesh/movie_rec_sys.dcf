@@ -1,0 +1,10 @@
+name: movie_rec_sys
+title:
+username:
+account: sahumukesh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 249553
+bundleId: 1139026
+url: https://sahumukesh.shinyapps.io/movie_rec_sys/
+when: 1513470513.98201
